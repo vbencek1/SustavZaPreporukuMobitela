@@ -1,0 +1,10 @@
+C:\Users\Tino\Desktop\Inteligentni sustavi\Projekt\Repozitorij\SustavZaPreporukuMobitela\SustavZaPreporukuMobitelaML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Tino\Desktop\Inteligentni sustavi\Projekt\Repozitorij\SustavZaPreporukuMobitela\SustavZaPreporukuMobitelaML.Model\bin\Debug\netstandard2.0\SustavZaPreporukuMobitelaML.Model.deps.json
+C:\Users\Tino\Desktop\Inteligentni sustavi\Projekt\Repozitorij\SustavZaPreporukuMobitela\SustavZaPreporukuMobitelaML.Model\bin\Debug\netstandard2.0\SustavZaPreporukuMobitelaML.Model.dll
+C:\Users\Tino\Desktop\Inteligentni sustavi\Projekt\Repozitorij\SustavZaPreporukuMobitela\SustavZaPreporukuMobitelaML.Model\bin\Debug\netstandard2.0\SustavZaPreporukuMobitelaML.Model.pdb
+C:\Users\Tino\Desktop\Inteligentni sustavi\Projekt\Repozitorij\SustavZaPreporukuMobitela\SustavZaPreporukuMobitelaML.Model\obj\Debug\netstandard2.0\SustavZaPreporukuMobitelaML.Model.csprojAssemblyReference.cache
+C:\Users\Tino\Desktop\Inteligentni sustavi\Projekt\Repozitorij\SustavZaPreporukuMobitela\SustavZaPreporukuMobitelaML.Model\obj\Debug\netstandard2.0\SustavZaPreporukuMobitelaML.Model.AssemblyInfoInputs.cache
+C:\Users\Tino\Desktop\Inteligentni sustavi\Projekt\Repozitorij\SustavZaPreporukuMobitela\SustavZaPreporukuMobitelaML.Model\obj\Debug\netstandard2.0\SustavZaPreporukuMobitelaML.Model.AssemblyInfo.cs
+C:\Users\Tino\Desktop\Inteligentni sustavi\Projekt\Repozitorij\SustavZaPreporukuMobitela\SustavZaPreporukuMobitelaML.Model\obj\Debug\netstandard2.0\SustavZaPreporukuMobitelaML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Tino\Desktop\Inteligentni sustavi\Projekt\Repozitorij\SustavZaPreporukuMobitela\SustavZaPreporukuMobitelaML.Model\obj\Debug\netstandard2.0\SustavZaPreporukuMobitelaML.Model.dll
+C:\Users\Tino\Desktop\Inteligentni sustavi\Projekt\Repozitorij\SustavZaPreporukuMobitela\SustavZaPreporukuMobitelaML.Model\obj\Debug\netstandard2.0\SustavZaPreporukuMobitelaML.Model.pdb
